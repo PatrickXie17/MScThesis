@@ -1,4 +1,4 @@
-Title: A flexible inference method for an autoregressive stochastic volatility model with an application to risk management
+### A flexible inference method for an autoregressive stochastic volatility model with an application to risk management
 
 Author: Yijun Xie
 
